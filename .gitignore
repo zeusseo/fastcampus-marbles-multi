@@ -1,3 +1,4 @@
 .idea
 network/multi/docker/**
 marbles/node_modules
+marbles/package-lock.json
