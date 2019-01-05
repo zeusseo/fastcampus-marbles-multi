@@ -24,7 +24,7 @@ source ~/.bashrc
 
 ## Hyperledger Network Basic 개발 환경 구성
 marbles/config/connection_profile.local.json 에서 인증서 관련 경로 설정이 하기와 같이 되어 있다.
-
+==> marbles/config/connection_profile.multi.json 에서 인증서 관련 경로 설정이 하기와 같이 되어 있다.
 ```
 	"organizations": {
 		"Org1MSP": {
