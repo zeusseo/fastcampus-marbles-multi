@@ -1,3 +1,6 @@
+#Hyper-V : CentOS 7 - MediaCopy_fastcamp3기(2018.12.29)에 설치
+설치 경로 : ~/Workspace/src/go/src/github.com/simon0210/fastcampus-marbles-multi
+
 # FastCampus HLF 3기 
 ## 사전 필요 사항 ##
 * nodeJS v8.11.3 이상
